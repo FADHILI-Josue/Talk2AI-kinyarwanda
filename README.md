@@ -42,5 +42,5 @@ Then open [http://localhost:7860](http://localhost:7860)
 ## 📋 Example
 | Input          | Matched Q       | Response                                  |
 |----------------|------------------|--------------------------------------------|
-| mizeneza       | muraho?          | Muraho! Ndi hano kugufasha. Ni iki wakwifuza kumenya?                     |
+| muraho       | muraho?          | Muraho! Ndi hano kugufasha. Ni iki wakwifuza kumenya?                     |
 | wakozwe na nde | wakozwe na nde?   | Nakozwe na Fadhili Josue mukigo cya Rwanda Coding academy.     |
