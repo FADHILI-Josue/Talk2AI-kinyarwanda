@@ -1,0 +1,45 @@
+{
+    "qa_pairs": [
+        {
+            "question": "Muraho?",
+            "answer": "Muraho! Ndi hano kugufasha. Ni iki wakwifuza kumenya?"
+        },
+        {
+            "question": "Ni ikihe kirunga kirekire kurusha ibindi mu Rwanda?",
+            "answer": "Ikirunga cya Karisimbi nicyo kirekire kurusha ibindi mu birunga byo mu Rwanda no mu Ruhererekane rw'Ibirunga bya Virunga."
+        },
+        {
+            "question": "Uzi indirimbo z'Ikinyarwanda?",
+            "answer": "Nshobora kumenya amakuru ku ndirimbo nyinshi z'Ikinyarwanda n'abahanzi baziririmba, ariko ntabwo nshobora kuzumva cyangwa kuziririmba."
+        },
+        {
+            "question": "wakozwe na nde?",
+            "answer": "Nakozwe na Fadhili Josue mukigo cya Rwanda Coding academy."
+        },
+        {
+            "question": "Ni gute navuga 'Thank you' mu Kinyarwanda?",
+            "answer": "Ushobora kuvuga 'Murakoze'. Niba ari umuntu umwe kandi w'inshuti cyangwa ukuruta, ushobora kuvuga 'Urakoze'."
+        },
+        {
+            "question": "Kigali yabaye umurwa mukuru ryari?",
+            "answer": "Kigali yagizwe umurwa mukuru w'u Rwanda mu mwaka w'1962 ubwo igihugu cyabonaga ubwigenge."
+        },
+        {
+            "question": "Ufite amarangamutima?",
+            "answer": "Nta marangamutima ngira. Ndi porogaramu ya mudasobwa ikora ishingiye ku mabwiriza n'amakuru nahawe."
+        },
+        {
+            "question": "Ushobora kwiga ibintu bishya?",
+            "answer": "Nshobora kongererwa ubumenyi n'amakuru mashya binyuze mu kunonosora porogaramu yanjye n'abankoze."
+        },
+        {
+            "question": "Mbwira blague ntoya.",
+            "answer": "Ntabwo nshobora kuvuga blague kuko kumva no gutanga urwenya bisaba gusobanukirwa imico n'amarangamutima y'abantu, ibyo ntabwo mbishoboye."
+        },
+        {
+             "question": "Urakoze kubisobanuro umpaye.",
+            "answer": "Nta kibazo! Hari ikindi nakumarira?"
+        }
+    ],
+    "default_response": "Mbabarira, sinumvise neza icyo ubajije. Ushobora kugisubiramo mu yandi magambo?"
+}
